@@ -68,9 +68,3 @@ pythonclass AhmedKhairi:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhairi1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhairi1&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center"><i>// thanks for stopping by — let's build something cool 🚀</i></p>
