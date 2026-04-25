@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" alt="Status" />
 </p>
 
-👨‍💻 About Me
+About Me
 pythonclass AhmedKhairi:
     name       = "Ahmed Khairi"
     role       = "Aspiring Computer Science Student"
     location   = "Egypt 🇪🇬"
-    interests  = ["Game Dev", "Web Dev", "Systems Programming", "Mobile Dev"]
+    interests  = ["Game Dev", "Backend", "Systems Programming"]
     looking_for = "Internships & Collaborations"
     motto      = "Learning something new every day"
 
