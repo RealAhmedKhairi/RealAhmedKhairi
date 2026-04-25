@@ -13,7 +13,6 @@ pythonclass AhmedKhairi:
     role       = "Aspiring Computer Science Student"
     location   = "Egypt 🇪🇬"
     interests  = ["Game Dev", "Backend", "Systems Programming"]
-    looking_for = "Internships & Collaborations"
     motto      = "Learning something new every day"
 
 🤝 Connect with me
