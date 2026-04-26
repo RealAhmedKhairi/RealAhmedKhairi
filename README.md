@@ -8,12 +8,7 @@
 </p>
 
 About Me
-pythonclass AhmedKhairi:
-    name       = "Ahmed Khairi"
-    role       = "Aspiring Computer Science Student"
-    location   = "Egypt 🇪🇬"
-    interests  = ["Game Dev", "Backend", "Systems Programming"]
-    motto      = "Learning something new every day"
+My name is Ahmed Khairi and I have grown an interest in backend development, system architecture! I try my best to aspire and inspire people in the tech industry and learn new things everyday.
 
 🤝 Connect with me
 <p align="left">
