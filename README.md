@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" alt="Status" />
 </p>
 
-About Me
+About Me: <br>
 My name is Ahmed Khairi and I have grown an interest in backend development, system architecture! I try my best to aspire and inspire people in the tech industry and learn new things everyday.
 
 🤝 Connect with me
