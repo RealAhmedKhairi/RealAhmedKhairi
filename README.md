@@ -8,7 +8,7 @@
 </p>
 
 About Me: <br>
-My name is Ahmed Khairi and I have grown an interest in backend development, system architecture! I try my best to aspire and inspire people in the tech industry and learn new things everyday.
+My name is Ahmed Khairi and I have grown an interest in backend development, system architecture! I try my best to inspire and empower people in the tech industry and learn new things everyday.
 
 🤝 Connect with me
 <p align="left">
